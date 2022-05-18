@@ -1,0 +1,1 @@
+This is grants folder to do some coding activities and things

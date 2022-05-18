@@ -1,0 +1,1 @@
+This is Jeremy folder to do some coding activities and things
